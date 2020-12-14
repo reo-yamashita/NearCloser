@@ -12,7 +12,7 @@ I'm Near String from Japan, call me Near.  I really being into learning language
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nearString&show_icons=true&theme=react&hide=prs" />
 </a>
-<br />
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nearString&hide=typescript&layout=compact&theme=default" />
 </a>
