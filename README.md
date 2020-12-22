@@ -1,5 +1,5 @@
 
-# Near String
+# ✨Near String
 I'm Near String from Japan, call me Near.  I really being into learning languages and frameworks like React and Vue. 
 
 ## Skills
@@ -13,6 +13,7 @@ I'm Near String from Japan, call me Near.  I really being into learning language
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nearString&hide=typescript&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **NearString/nearString** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
