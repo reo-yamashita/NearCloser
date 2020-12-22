@@ -7,9 +7,10 @@ I'm Near String from Japan, call me Near.  I really being into learning language
 * :anchor: Vue
 * :pencil2: HTML, CSS, JS
 
+<!--
 ## GitHub stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nearString&show_icons=true&theme=react&hide=prs)
-
+-->
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nearString&hide=typescript&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
