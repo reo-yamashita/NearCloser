@@ -1,6 +1,9 @@
 
-# ✨Near String
-I'm Near String from Japan, call me Near.  I really being into learning languages and frameworks like React and Vue. 
+# ✨Near Closer
+I'm Near Closer from Japan, call me Near.  I really being into learning languages and frameworks like React and Vue. 
+
+# My Portfolio
+ https://near-closer.netlify.app
 
 ## Skills
 * :snowflake: React
