@@ -1,8 +1,8 @@
 
-# ✨Near Closer
+# Near Closer✨
 I'm Near Closer from Japan, call me Near.  I really being into learning languages and frameworks like React and Vue. 
 
-# My Portfolio
+## My Portfolio ( Japanese )
  https://near-closer.netlify.app
 
 ## Skills
@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#
