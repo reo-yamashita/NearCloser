@@ -3,8 +3,10 @@
 I'm Near Closer from Japan, call me Near.  I really being into learning languages and frameworks like React and Vue. 
 
 ## My Portfolio ( Japanese )
- https://near-closer.netlify.app
-
+ OLD : https://near-closer.netlify.app
+ 
+ NEW!!🌟 https://near-closer0215.netlify.app (under development)
+ 
 ## Skills
 * :snowflake: React
 * :anchor: Vue
