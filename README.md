@@ -2,13 +2,27 @@
 # Near Closer✨
 I'm Near Closer from Japan, call me Near.  I really being into learning languages and frameworks like React and Vue. 
 
-## My Portfolio ( Japanese )
- https://near-closer0215.netlify.app 
+## 
+ https://zenn.dev/nibu0215
  
 ## Skills
 * :snowflake: React
 * :anchor: Vue
 * :pencil2: HTML, CSS, JS
+* 🔥 firebase 
+
+## Learning  from 2021
+* GCP  
+* AWS  DynamoDB, AppSync, Lambda
+* Go   Fiber for creating API
+* Docker 
+* Svelte 
+
+## Most Using framework
+* NextJS (SSG)
+
+## Most Love Language
+* ReactJS 
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nearCloser&hide=typescript&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,4 +41,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#
+
