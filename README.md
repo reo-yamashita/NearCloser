@@ -1,6 +1,7 @@
 
 # Near Closer✨
-I'm Near Closer from Japan, call me Near.  I really being into learning languages and frameworks like React and Vue. 
+Hello from Japan! Call me Near.  I really being into learning languages and frameworks like React and Vue. 
+I am going to develop Made-In-Japan original Headless CMS. So I currently much interested in WYSIWYG Editor.
 
 ## 
  https://zenn.dev/nibu0215
@@ -24,6 +25,13 @@ I'm Near Closer from Japan, call me Near.  I really being into learning language
 ## Most Love Language
 * ReactJS 
 
+## Most Love WYSIWYG Editor
+- Slate.js
+- Draft.js
+
+## Most Love Task Management Tool
+- ClickUp
+ 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nearCloser&hide=typescript&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
