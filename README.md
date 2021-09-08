@@ -1,7 +1,7 @@
 
 # Near Closer✨
 Hello from Japan! Call me Near.  I really being into learning languages and frameworks like React and Vue. 
-I am going to develop Made-In-Japan original Headless CMS. So I currently much interested in WYSIWYG Editor.
+I am going to develop Made-In-Japan original Headless CMS. So I currently much interested in WYSIWYG Editor especially Slate.js.
 
 ## 
  https://zenn.dev/nibu0215
