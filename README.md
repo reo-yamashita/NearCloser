@@ -1,33 +1,28 @@
 
-# Near Closer✨
-Hello from Japan! Call me Near.  I really being into learning languages and frameworks like React and Vue. 
-I am going to develop Made-In-Japan original Headless CMS. So I currently much interested in WYSIWYG Editor especially Slate.js.
-
-## 
- https://zenn.dev/nibu0215
+# Reo Yamashita✨
+Hello from Japan! Call me Reo.  I really being into learning languages and frameworks like React, Sveltekit, Remix! 
  
 ## Skills
-* :snowflake: React
-* :anchor: Vue
+* :snowflake: React (NextJS, Remix.run)
+* :anchor: Vue (Nuxt)
 * :pencil2: HTML, CSS, JS
-* 🔥 firebase 
+* 🔥 Firebase
+* I love tRPC, Resend(Email), PlanetScale, Prisma... and more!
 
-## Learning  from 2021
-* GCP  
-* AWS  DynamoDB, AppSync, Lambda
-* Go   Fiber for creating API
+## Learning  from 2023
 * Docker 
-* Svelte 
+* Sveltekit
+* Remix.run
+* tRPC (t3Stack) 
 
 ## Most Using framework
-* NextJS (SSG)
+* NextJS
 
-## Most Love Language
+## Most Love library
 * ReactJS 
 
 ## Most Love WYSIWYG Editor
-- Slate.js
-- Draft.js
+- Tiptap 
 
 ## Most Love Task Management Tool
 - ClickUp
